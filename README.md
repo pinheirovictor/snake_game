@@ -1,2 +1,2 @@
 # snake_game
-### Jogo da cobrinha versão web
+### Jogo da cobrinha versão web.
